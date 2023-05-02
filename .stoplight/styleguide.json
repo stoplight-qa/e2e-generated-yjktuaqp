@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Yjktuaqp",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjY"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjY",
+      "name": "Licensed Rubber Soap",
+      "slug": "seeded-licensed-rubber-soap-ssbpz",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
